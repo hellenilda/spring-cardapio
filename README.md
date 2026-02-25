@@ -79,7 +79,7 @@ spring.datasource.password=password
 
 ```bash
 git clone https://github.com/hellenilda/spring-cardapio.git
-cd cardapio-web
+cd spring-cardapio
 ```
 
 ### Executar a aplicação

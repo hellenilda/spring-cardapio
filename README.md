@@ -78,7 +78,7 @@ spring.datasource.password=password
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/hellenilda/cardapio-web.git
+git clone https://github.com/hellenilda/spring-cardapio.git
 cd cardapio-web
 ```
 
